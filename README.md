@@ -380,8 +380,13 @@ v100.0.0 以上版本可配合 [Selene](https://github.com/MoonTechLab/Selene) �
 1. **设置环境变量 `PASSWORD`**：为您的实例设置一个强密码
 2. **仅供个人使用**：请勿将您的实例链接公开分享或传播
 3. **遵守当地法律**：请确保您的使用行为符合当地法律法规
-4. 
-### 配置视频源json
+
+## 视频源
+1. url 
+```js
+https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.json
+```
+2. json
 ```json
 {
 "cache_time": 9200,
